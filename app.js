@@ -28,7 +28,7 @@ $(document).ready(function () {
      })
    
       // The text for that event is saved in local storage when the save button is click
-     $("form").on("button", function (e) {
+     $("form").on("submit", function (e) {
        e.preventDefault()
    
        const time = e.target.querySelector("input").getAttribute("id")
