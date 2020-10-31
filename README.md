@@ -27,6 +27,6 @@ Requirements:
 * [Moment.js](https://momentjs.com/) 
 
 ## Links:
-* [My Github Page]
+* [My Github Page](https://nhidanis.github.io/Work-Day-Scheduler/)
 
 
