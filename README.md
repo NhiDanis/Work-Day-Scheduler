@@ -9,11 +9,12 @@ Requirements:
 * Current day is displayed at the top of the calendar when the planner is open
 * Presented with time blocks for standard business hours when scroll down
 * View the time blocks for that day, each time block is color-coded to indicate whether it is in the past, present, or future
-* Can enter an event
+* Can enter an event into a time block.
 * The text for that event is saved in local storage when the save button is click
 * Refresh the page then the saved events persist
 
 ## Screenshot reference:
+<img width="1792" alt="Screen Shot 2020-10-31 at 10 19 08 AM" src="https://user-images.githubusercontent.com/68761490/97785585-17351880-1b63-11eb-83a6-08a87b8bea01.png">
 
 ## BuiltWith
 
